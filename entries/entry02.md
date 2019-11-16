@@ -5,7 +5,7 @@ Throughout the three weeks after the first blog entry, my partner and I decided 
 
 We put our observation skills to the test, looking through many different genres of games. We played action, adventure, horror, RPG, and many other types of games on our school Mac. Outside of school, I tested different games on my PC to see the functionality of unity on the Windows Operating System. For a few days, Jagger and I questioned the limitations of Unity, if the program struggled on loading or running elements from the games we tested. Based on our discussions and observations, we concluded that an extremely large amount of game genres can be created and played on Unity. No issues persist for any of the games tested.
 
-![Alt](../Java_Syntax.png "Java Syntax")                                                              ![Alt](../CS_Syntax.png "C# Syntax")
+![Alt](../Java_Syntax.png "Java Syntax")                                                            ![Alt](../CS_Syntax.png "C# Syntax")
 
 
 
