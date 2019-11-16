@@ -7,7 +7,7 @@ We put our observation skills to the test, looking through many different genres
 
 ![Alt](../Java_Syntax.png "Java Syntax")
 
-![Alt](../C#_Syntax.png "C# Syntax")
+![Alt](../CS_Syntax.png "C# Syntax")
 
 After we confirmed that versatility and reliability of the program, Jagger and I decided to learn how to use Unity and the programming language associated with it, C#. We first looked onto different websites that discussed C#. We quickly realized that the syntax is very similar to Java. This connection allowed us to quickly absorbed and understand few of the topics of C# discussed, such as loops and basic conditionals.
 
