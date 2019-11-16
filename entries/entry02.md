@@ -7,13 +7,9 @@ We put our observation skills to the test, looking through many different genres
 
 After we confirmed that versatility and reliability of the program, Jagger and I decided to learn how to use Unity and the programming language associated with it, C#. We first looked onto different websites that discussed C#. We quickly realized that the syntax is very similar to Java. This connection allowed us to quickly absorbed and understand few of the topics of C# discussed, such as loops and basic conditionals.
 
-![Alt](../Java_Syntax.png "Java Syntax")
-**VS**
-![Alt](../CS_Syntax.png "C# Syntax")
+[link](../Java_Syntax.png "Java Syntax") **VS** [link](../CS_Syntax.png "C# Syntax")
 
 Next, we accessed the official website of Unity to learn how we can implement C# into the program. As expected, there were many unfamiliar things we were exposed to: lightrooms, storing game objects into a variable like a boolean, frames, etc. Although Unity has a straight forward interface, the code was very confusing. As a result, Jagger and I are planning to spend a-lot of our time on learning how to use Unity with C# until we feel comfortable enough to create our game.
-
-![Alt](../code_unity.jpg "Unity")
 
 **As of 11/15/19, Jagger DU'go & Yahia Elhag still continue to use Unity for their freedom project**
 
