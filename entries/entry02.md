@@ -11,6 +11,8 @@ After we confirmed that versatility and reliability of the program, Jagger and I
 
 Next, we accessed the official website of Unity to learn how we can implement C# into the program. As expected, there were many unfamiliar things we were exposed to: lightrooms, storing game objects into a variable like a boolean, frames, etc. Although Unity has a straight forward interface, the code was very confusing. As a result, Jagger and I are planning to spend a-lot of our time on learning how to use Unity with C# until we feel comfortable enough to create our game.
 
+*Unity Code* ([link](../code_unity.jpg "Unity"))
+
 **As of 11/15/19, Jagger DU'go & Yahia Elhag still continue to use Unity for their freedom project**
 
 Sources:
