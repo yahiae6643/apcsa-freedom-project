@@ -26,8 +26,8 @@ During our **brainstorming stage** We sketched designs for how our prototype wou
 
 - Possible terrains that the user can encounter and explore
 
-<img src="https://opengameart.org/sites/default/files/styles/medium/public/house7_0.gif"
-     alt="Chat"
+<img src="http://i.imgur.com/Q2BQ8zj.png"
+     alt="Terrian"
      style="margin-left: 250px; width: 400px" />
 
 
