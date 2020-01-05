@@ -4,7 +4,7 @@
 
 ## Summary
 
-Throughout December, my partner, Jagger, and I attempted to learn the coding language C# and outlined our prototype.
+Throughout December, my partner, Jagger, and I outlined our prototype and attempted to learn the coding language C#.
 
 ## The Engineering Design Process (EDP)
 
@@ -31,7 +31,7 @@ During our **brainstorming stage** We sketched designs for how our prototype wou
      style="margin-left: 250px;" />
 
 
-Once we completed our final sketch, we start our **planning** stage. Jagger and I created a google document where we created C# variables that would be needed to implement our sketch onto Unity. Different elements of our sketch required different C# variables, so we decided on using:
+Once we completed our sketch for the game, we start our **planning** stage. Jagger and I created a google document where we created C# variables that would be needed to implement our sketch onto Unity. Different elements of our sketch required different C# variables, so we decided on using:
 
 - Integer variables for the health, mana, and everything else that is countable
  ```
@@ -49,7 +49,7 @@ bool isInBattle = true;
 bool isSpeaking = false;
 ```
 
-We are still currently planning out our C# variables in our [**document**](https://docs.google.com/document/d/18f9qcz2JyZ-BGMIxdP59HZ8n27FTovv30-qeWeXPChY/edit?usp=sharing "document"). Once completed, we'll quickly onto **creating** our prototype since we'll have a reference and some code to start with.
+We are still currently planning out our C# variables in our [**document**](https://docs.google.com/document/d/18f9qcz2JyZ-BGMIxdP59HZ8n27FTovv30-qeWeXPChY/edit?usp=sharing "document"). Once completed, we'll quickly move onto **creating** our prototype since we'll have a reference and some code to start with.
 
 ## Skills
 
@@ -58,7 +58,7 @@ Jagger and I have used our skills of **collaboration** and **time-management** w
 
 A majority of our time in class was utilized to fix a persistent issue with [**Unity**](https://unity.com "Unity"). The school computers weren't able to install the software. Our attempts to fix the installation issue failed, and after two week of constant debugging, Jagger and I finally decided to focus our energy on blueprinting our prototype and learning C#.
 
-During the rest of December, we used our class-time and some time outside of class to develop a solid understanding of C#. We went through [**w3schools**](https://www.w3schools.com/cs/ "w3schools") and many other resources about the coding language. Our lessons on C# ranged from syntax to classes. After finishing our lessons, we discussed what we learned and asked questions to fill in any knowledge gaps.
+During the rest of December, we used our class-time and some time outside of class to develop a solid understanding of C#. We went through [**w3schools**](https://www.w3schools.com/cs/ "w3schools") and many other resources about the coding language. Our lessons on C# ranged from syntax to classes. We then discussed what we learned and asked questions to fill in any knowledge gaps.
 
 While developing a solid understanding of C#, we also discussed possible designs and features that should be added into our prototype (Go the EDP section above to see more about our brainstorming and planning).
 
