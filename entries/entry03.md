@@ -12,8 +12,12 @@ Throughout the time of learning C#, we were **brainstorming** and **planning** d
 During our **brainstorming stage** We sketched designs for how our prototype would look like. Since the prototype is going to be a RPG (role-playing game), we made sure to include essential RPG elements within our sketches. This includes:
 
 - Meters and numbers that measure the player's resources (Health, Mana, Inventory)
+![Health](../Health-bar.png "Health Bar")
+![Mana](../Mana-bar.png "Mana Bar")
+
 - Boxes that appear when the user interacts with a character or item within the game
 - Possible terrians that the user can encounter and explore
+
 
 Once we completed our final sketch, we start our **planning** stage. Jagger and I created a google document where we created C# variables that would needed to implement our sketch onto Unity. Different elements of our sketch required different C# variables, so we decided on using:
 
