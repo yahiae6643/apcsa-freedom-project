@@ -28,7 +28,7 @@ During our **brainstorming stage** We sketched designs for how our prototype wou
 
 <img src="http://i.imgur.com/Q2BQ8zj.png"
      alt="Terrian"
-     style="margin-left: 250px; width: 300px" />
+     style="margin-left: 250px; width: 100px" />
 
 
 Once we completed our final sketch, we start our **planning** stage. Jagger and I created a google document where we created C# variables that would be needed to implement our sketch onto Unity. Different elements of our sketch required different C# variables, so we decided on using:
