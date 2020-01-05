@@ -56,7 +56,7 @@ We are still currently planning out our C# variables in our [**document**](https
 
 Jagger and I have used our skills of **collaboration** and **time-management** while approaching our project.
 
-A majority of our time in class was utilized to fix a persistent issue with [**Unity**](https://unity.com "Unity"). The school computers weren't able to install the software. Our attempts to fix the installation issue failed, and after one week of constant debugging, Jagger and I finally decided to focus our energy on blueprinting our prototype and learning C#.
+A majority of our time in class was utilized to fix a persistent issue with [**Unity**](https://unity.com "Unity"). The school computers weren't able to install the software. Our attempts to fix the installation issue failed, and after two week of constant debugging, Jagger and I finally decided to focus our energy on blueprinting our prototype and learning C#.
 
 During the rest of December, we used our class-time and some time outside of class to develop a solid understanding of C#. We went through [**w3schools**](https://www.w3schools.com/cs/ "w3schools") and many other resources about the coding language. Our lessons on C# ranged from syntax to classes. After finishing our lessons, we discussed what we learned and asked questions to fill in any knowledge gaps.
 
