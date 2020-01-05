@@ -28,7 +28,7 @@ During our **brainstorming stage** We sketched designs for how our prototype wou
 
 <img src="https://s3.amazonaws.com/gameartpartnersimagehost/wp-content/uploads/2019/08/sewer-tile-set-thumbnail.jpg"
      alt="Terrian"
-     style="margin-left: 250px; width: 450px" />
+     style="margin-left: 250px;" />
 
 
 Once we completed our final sketch, we start our **planning** stage. Jagger and I created a google document where we created C# variables that would be needed to implement our sketch onto Unity. Different elements of our sketch required different C# variables, so we decided on using:
