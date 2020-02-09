@@ -22,7 +22,7 @@ Unity's interface consist of five parts: ***The Toolbar, The Scene View, The Pro
 
 ***The Scene View is where your project and its objects are displayed, either in 2D or 3D***
 
-***The Project Window is where your assets (textures, colors, animations, etc) are displayed**
+***The Project Window is where your assets (textures, colors, animations, etc) are displayed***
 
 ***The Hierarchy Window shows a organized list of your project's objects. They are organized based on how recent they were created***
 - The newest object is the lowest of the hierachy, so it's placed on the bottom of the list
