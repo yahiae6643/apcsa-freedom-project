@@ -15,6 +15,8 @@ Jagger and I installed the latest version of Unity, its multiple libraries (diff
 
 Unity's interface consists of five parts: ***The Toolbar, The Scene View, The Project Window, The Hierarchy Window, and The Inspector Window.***
 
+![Interface](https://docs.unity3d.com/uploads/Main/Editor-Breakdown.jpg)
+
 ***The Toolbar is where you have access to basic features.***
 - On the left, you are given tools that allow you to manipulate the scene view and the objects within it.
 - The middle of the toolbar illustrates buttons that allow you to run or pause your project.
@@ -36,6 +38,9 @@ Unity's interface consists of five parts: ***The Toolbar, The Scene View, The Pr
 - Size / Scale
 
 On the inspector window, my partner and I were given access to tutorials on how to change the objects and behaviors within our downloaded example game. We were both ignorant about how to use Unity, so Jagger and I decided to go through them.
+<p align="center">
+<img alt="Tutorial" src="https://i.ibb.co/y8Jhqxf/Unity-Tutorial.png">
+</p>
 
 Due to Unity's simple interface, it wasn't very difficult to complete them all.
 
@@ -57,6 +62,14 @@ A few examples of what we searched:
 ## Knowledge
 
 As Jagger and I learned about the interface of Unity, we realized that Unity has a big similarity with the regular program we use in class, CS50. The similarity is that both have an IDE.
+
+<p align="center">
+<img alt="Unity IDE" src="https://docs.unity3d.com/StaticFiles/ScriptRefImages/EditorGUILayoutTextArea.png">
+</p>
+
+<p align="center">
+<img alt="CS50 IDE" src="https://i.ibb.co/Y038BGQ/CS50-Editor.png">
+</p>
 
 When we double-click a file within the hierarchy window, both programs open the file within a text editor (otherwise known as an IDE). This is great because Jagger and I won't need to download a separate IDE to edit certain files for our prototype. Also, the coding process of our project will be more efficient and streamlined.
 
