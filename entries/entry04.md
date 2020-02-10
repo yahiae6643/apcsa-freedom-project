@@ -31,11 +31,11 @@ Unity's interface consists of five parts: ***The Toolbar, The Scene View, The Pr
 - The oldest object is the highest of the hierarchy, so it's placed on the top of the list
 
 ***The Inspector Window gives you access to edit the properties of all of your objects within the project***
-- Variables
-- Color
-- Camera / Perspective (At what direction and angle the object is displayed)
-- Position
-- Size / Scale
+- [**Variables**](https://learn.unity.com/tutorial/variables-and-functions "Variables")
+- [**Color**](https://docs.unity3d.com/ScriptReference/Color.html "Color")
+- [**Camera / Perspective**](https://docs.unity3d.com/ScriptReference/Camera.html "Camera")  (At what direction and angle the object is displayed)
+- [**Position**](https://docs.unity3d.com/Manual/PositioningGameObjects.html "Position")
+- [**Size / Scale**](https://forum.unity.com/threads/understanding-scale-in-unity.7314/ "Scaling")
 
 On the inspector window, my partner and I were given access to tutorials on how to change the objects and behaviors within our downloaded example game. We were both ignorant about how to use Unity, so Jagger and I decided to go through them.
 <p align="center">
@@ -61,7 +61,7 @@ A few examples of what we searched:
 
 ## Knowledge
 
-As Jagger and I learned about the interface of Unity, we realized that Unity has a big similarity with the regular program we use in class, CS50. The similarity is that both have an IDE.
+As Jagger and I learned about the interface of [**Unity**](https://unity.com "Unity"), we realized that Unity has a big similarity with the regular program we use in class, [**CS50**](ide.cs50.io "CS50"). The similarity is that both have an IDE.
 
 <p align="center">
 <img alt="Unity IDE" src="https://docs.unity3d.com/StaticFiles/ScriptRefImages/EditorGUILayoutTextArea.png">
