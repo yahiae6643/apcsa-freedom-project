@@ -95,8 +95,8 @@ Reading documentation was probably the most significant skill Jagger and I had t
 
 ## Knowledge
 
-As Jagger and I worked on the first type of our prototype, we found out that both Java and C# has access to many different types of libraries. Similar to `Java.util.*`, C# has libraries that consist of collections framework, legacy collection classes, event model, and date and time facilities. These libraries allow me to use methods and classes that are essential for creating my Unity scripts, such as `Time.deltaTime`.
-* A few examples of C# libraries are `System.Collections` and `System.Collections.Generic`.
+As Jagger and I worked on the first type of our prototype, we found out that both Java and C# has access to many different types of libraries. Similar to [`Java.util.*`](https://www.cs.mun.ca/java-api-1.5/guide/lang/index.html "Java.util.*"), C# has libraries that consist of collections framework, legacy collection classes, event model, and date and time facilities. These libraries allow me to use methods and classes that are essential for creating my Unity scripts, such as `Time.deltaTime`.
+* A few examples of C# libraries are  [`System.Collections`](https://docs.microsoft.com/en-us/dotnet/api/system.collections?view=netframework-4.8 "Collection") and [`System.Collections.Generic`](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic?view=netframework-4.8 "Collection.Generic").
 
 ## Final Words
 
