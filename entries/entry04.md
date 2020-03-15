@@ -15,7 +15,7 @@ Jagger and I installed the latest version of Unity, its multiple libraries (diff
 
 Unity's interface consists of five parts: ***The Toolbar, The Scene View, The Project Window, The Hierarchy Window, and The Inspector Window.***
 
-![Interface](https://docs.unity3d.com/uploads/Main/Editor-Breakdown.jpg)
+![Interface](https://docs.unity3d.com/uploads/Main/Editor-Breakdown.png)
 
 ***The Toolbar is where you have access to basic features.***
 - On the left, you are given tools that allow you to manipulate the scene view and the objects within it.
