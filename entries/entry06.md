@@ -20,9 +20,9 @@ In our previous blog entry, Jagger and I only created a movement C# script for o
 <br />
 
 <p align="center">
-<a href="https://gyazo.com/03407ae33c7393234f6e2d3ec62c3f1b"><img src="https://i.gyazo.com/03407ae33c7393234f6e2d3ec62c3f1b.gif" alt="Image from Gyazo" width="400"/></a>
+<a href="https://gyazo.com/61ae88cb7a3528b9fd8d01bf84a008f9"><img src="https://i.gyazo.com/61ae88cb7a3528b9fd8d01bf84a008f9.gif" alt="Image from Gyazo" width="398"/></a>
 </p>
-<h6 align="center">Visual demonstration of enemyGenerator (screen-tearing due to low fps)</h6>
+<h6 align="center">Visual demonstration of enemyGenerator</h6>
 
 <br />
 
