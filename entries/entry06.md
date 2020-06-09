@@ -29,7 +29,7 @@ In our previous blog entry, Jagger and I only created a movement C# script for o
 <p align="center">
 <a href="https://gyazo.com/d0748a9f56a5608c259408d4c089ed64"><img src="https://i.gyazo.com/d0748a9f56a5608c259408d4c089ed64.gif" alt="Image from Gyazo" width="400"/></a>
 </p>
-<h6 align="center">Visual demonstration of ButtonFunctions script</h6>
+<h6 align="center">Visual demonstration of enemyGenerator script</h6>
 
 <br />
 
