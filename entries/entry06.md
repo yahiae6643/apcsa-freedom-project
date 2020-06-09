@@ -54,7 +54,6 @@ Again, my basic knowledge on Java and the great similarity between Java and C# a
 
 Despite finishing our MVP, I still believe we need to add a few more mechanics in order for our game to be like we envisioned. It was a fun ride to create this game and I hope we can continue updating it in the future.
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/n1stwvq/MVP.png" alt="MVP" border="0" style="margin-left: 200px"></a>
 
 [Previous](entry05.md) | [Next](entry07.md)
 
