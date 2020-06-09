@@ -17,8 +17,9 @@ In our previous blog entry, Jagger and I only created a movement C# script for o
 - `ButtonFunctions.cs` is a script that assigns certain functions to the buttons on the battle GUI. For example, the **Attack** button on the battle GUI is assigned a function that deals a certain amount of damage to the enemy on the screen.
 - `shopBehavior.cs` is a script that allows the player to purchase or sell weapons on the shop GUI.
 
+https://gyazo.com/
 <p align="center">
-<a href="https://gyazo.com/63d526e38096d53fa6a540b68d61481f"><img src="https://i.gyazo.com/63d526e38096d53fa6a540b68d61481f.gif" alt="Image from Gyazo" width="400"/></a>
+<a href="https://gyazo.com/03407ae33c7393234f6e2d3ec62c3f1b"><img src="https://i.gyazo.com/03407ae33c7393234f6e2d3ec62c3f1b.gif" alt="Image from Gyazo" width="400"/></a>
 </p>
 <h6 align="center">Visual demonstration of enemyGenerator (screen-tearing due to low fps)</h6>
 
